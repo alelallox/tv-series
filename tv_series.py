@@ -7,7 +7,7 @@ anno_corrente = datetime.datetime.now().year
 
 #information for the text file
 titolo_file = "serie_tv_" + str(anno_corrente)
-directory = "C:/Users/aless/Desktop/python/tv series/file tv series"
+directory = "your directory"
 
 dizionario = {}
 
